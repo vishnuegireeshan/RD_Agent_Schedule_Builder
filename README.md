@@ -228,8 +228,8 @@ The system uses flexible matching. Any of these aliases work:
 ### Account Number Listing (`..._listwise_account_numbers.txt`)
 
 ```
-List 1: 020014831601,020014831602,020014831603
-List 2: 020014831604,020014831605
+List 1: 1234,1235,1236
+List 2: 12347,12348
 ```
 
 ---
